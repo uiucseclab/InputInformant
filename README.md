@@ -9,7 +9,7 @@ Nate Kaufman (nakaufma2@illinois.edu)
 ### Dependencies
 For the Windows keylogger, Winpython, pyHook and pillow are all that are required to run this script. They can be obtainined through using "pip install 'package name'"
 
-For the OSX keylogger, a compiler with C++11 and the apple developer which comes default with Xcode.
+For the OSX keylogger, a compiler with C++11 and the apple developer library which comes default with Xcode.
 
 Finally, the mail utility requires java version 8 and the javax.mail library, which is placed insided of the mail folder.
 
